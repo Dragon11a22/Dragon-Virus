@@ -1,0 +1,2 @@
+# Dragon-Virus
+Hello, this tool is dedicated to creating WhatsApp viruses in a very easy way, as all you have to do after opening the tool is to type your name or any name you want to make a virus and after writing the name, you will be directed to add a tag such as these signs👇🏻👇🏻👇🏻  ٖ ٰ ٓ ِ ُ ـ ٕ َ   After adding any of these signs, you will have to press Enter and let the tool create for you the virus and it will be with the same name that you wrote it down, and all you have to do after this is to copy the virus and send it to the victim
